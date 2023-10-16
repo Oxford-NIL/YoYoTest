@@ -1,0 +1,27 @@
+YoYo Test Level,RPE,Time
+5.1 Start,3,0.0
+5.1 Finish,3,12.0
+9.1 Start,4,25.0
+9.1 Finish,4,36.0
+11.1 Start,5,47.0
+11.1 Finish,5,57.0
+11.2 Start,6,68.0
+11.2 Finish,6,78.0
+12.1 Start,7,89.0
+12.1 Finish,7,99.0
+12.2 Start,7,110.0
+12.2 Finish,7,120.0
+12.3 Start,8,130.0
+12.3 Finish,8,140.0
+13.1 Start,8,151.0
+13.1 Finish,8,161.0
+13.2 Start,9,171.0
+13.2 Finish,9,182.0
+13.3 Start,9,191.0
+13.3 Finish,9,202.0
+13.4 Start,10,212.0
+13.4 Finish,10,222.0
+14.1 Start,10,232.0
+14.1 Finish,10,243.0
+14.2 Start,10,253.0
+14.2 Finish,10,263.0

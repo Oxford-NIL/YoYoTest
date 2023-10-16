@@ -1,0 +1,22 @@
+ID,Gender,Age,Height (cm),Weight (kg),Barometric Pressure (mmHg),Ambient Temperature (°C),Ambient Relative Humidity (%),COSMED File Name,Heart Rate Included?,YoYo Test Start Time,YoYo Test Start Index,YoYo Test End Time,YoYo Test End Index,Note,RPE File Name,Session RPE,YoYo Test Level,Audio Included?,Audio File Name
+D01,Female,24,170,73,764,18,44,D01_COSMED_1.csv,1,1063,275,1206,357,,D01_RPE_1.csv,8,12.2,1,D01_Audio_1.wav
+D02,Female,25,150,50,764,18,49,D02_COSMED_1.csv,1,1225,481,1517,732,,D02_RPE_1.csv,8,14.2,1,D02_Audio_1.wav
+D03,Female,19,158,52,767,18,56,D03_COSMED_1.csv,1,759,193,1003,348,,D03_RPE_1.csv,5,13.4,0,
+D04,Female,22,168,54,764,17,50,D04_COSMED_1.csv,1,1149,317,1429,545,,D04_RPE_1.csv,5,14.2,1,D04_Audio_1.wav
+D05,Male,20,182,76,766,16,45,D05_COSMED_1.csv,0,1003,167,1600,650,,D05_RPE_1.csv,7,16.2,1,D05_Audio_1.wav
+D06,Male,18,194,92,760,19,36,D06_COSMED_1.csv,1,853,169,1708,789,,D06_RPE_1.csv,7,17.8,1,D06_Audio_1.wav
+D07,Female,23,182,75,760,23,27,D07_COSMED_1.csv,1,1264,438,1561,648,,D07_RPE_1.csv,4,14.3,1,D07_Audio_1.wav
+D08,Male,22,182,63,760,26,29,D08_COSMED_1.csv,1,908,267,1823,1001,,D08_RPE_1.csv,8,18.1,1,D08_Audio_1.wav
+D09,Male,18,184,80,765,16,40,D09_COSMED_1.csv,0,1254,329,1852,795,,D09_RPE_1.csv,7,16.2,1,D09_Audio_1.wav
+D10,Male,33,170,70,767,19,54,D10_COSMED_1.csv,1,1444,347,1972,628,YoYo Test terminated at 1575s (402) and restarted at 1690 (448),D10_RPE_1.csv,7,14.2,1,D10_Audio_1.wav
+D11,Male,23,185,82.5,765,13,50,D11_COSMED_1.csv,0,847,245,1786,990,,D11_RPE_1.csv,7,18.3,1,D11_Audio_1.wav
+D13,Female,24,169,78.5,767,16,57,D13_COSMED_1.csv,1,738,284,939,424,,D13_RPE_1.csv,7,13.2,1,D13_Audio_1.wav
+D14,Female,27,160,50,761,14,41,D14_COSMED_1.csv,1,1348,345,1544,481,,D14_RPE_1.csv,5,13.2,1,D14_Audio_1.wav
+D15,Male,25,170,80,748,19,38,D15_COSMED_1.csv,1,659,215,839,359,,D15_RPE_1.csv,7,13.1,1,D15_Audio_1.wav
+D16,Male,20,176,65,760,21,38,D16_COSMED_1.csv,1,1018,222,1585,679,,D16_RPE_1.csv,8,15.8,1,D16_Audio_1.wav
+D17,Male,28,170,75,764,17,51,D17_COSMED_1.csv,1,1162,301,1416,425,,D17_RPE_1.csv,4,13.3,1,D17_Audio_1.wav
+D18,Male,24,177,70,767,18,54,D18_COSMED_1.csv,1,674,255,828,364,,D18_RPE_1.csv,7,12.3,0,
+D19,Female,24,160,60,755,31,47,D19_COSMED_1.csv,1,498,148,672,294,,D19_RPE_1.csv,5,13.1,1,D19_Audio_1.wav
+D20,Male,43,179,71,764,17,61,D20_COSMED_1.csv,1,700,209,1314,682,,D20_RPE_1.csv,7,16.2,1,D20_Audio_1.wav
+D21,Female,40,164,87,756,36,40,D21_COSMED_1.csv,1,988,270,1087,348,,D21_RPE_1.csv,6,11.2,1,D21_Audio_1.wav
+D24,Female,26,174,75,756,32,58,D24_COSMED_1.csv,1,1157,357,1510,519,YoYo Test terminated at 1255s (422) and restarted at 1410 (452),D24_RPE_1.csv,7,11.2,1,D24_Audio_1.wav

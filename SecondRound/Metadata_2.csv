@@ -1,0 +1,20 @@
+ID,Gender,Age,Height (cm),Weight (kg),Barometric Pressure (mmHg),Ambient Temperature (°C),Ambient Relative Humidity (%),COSMED File Name,Heart Rate Included?,YoYo Test Start Time,YoYo Test Start Index,YoYo Test End Time,YoYo Test End Index,Note,RPE File Name,Session RPE,YoYo Test Level,Audio Included?,Audio File Name
+D01,Female,24,170,73,765,18,53,D01_COSMED_2.csv,1,1294,234,1442,323,,D01_RPE_2.csv,9,12.2,0,
+D02,Female,25,150,50,766,16,59,D02_COSMED_2.csv,1,526,193,839,417,,D02_RPE_2.csv,8,14.3,1,D02_Audio_2.wav
+D03,Female,19,158,52,765,23,42,D03_COSMED_2.csv,1,381,147,677,357,,D03_RPE_2.csv,5,14.3,0,
+D04,Female,22,168,54,765,21,51,D04_COSMED_2.csv,1,832,320,1250,649,,D04_RPE_2.csv,7,15.1,0,
+D05,Male,20,182,76,755,32,53,D05_COSMED_2.csv,1,491,172,1292,842,,D05_RPE_2.csv,6,17.5,1,D05_Audio_2.wav
+D06,Male,19,194,92,766,17,58,D06_COSMED_2.csv,1,508,151,1604,1029,,D06_RPE_2.csv,8,19.4,1,D06_Audio_2.wav
+D08,Male,22,182,63,765,18,47,D08_COSMED_2.csv,1,615,226,1428,979,,D08_RPE_2.csv,9,17.5,1,D08_Audio_2.wav
+D09,Male,18,184,80,767,14,60,D09_COSMED_2.csv,0,1147,347,1804,843,,D09_RPE_2.csv,7,16.5,1,D09_Audio_2.wav
+D10,Male,33,170,70,765,20,48,D10_COSMED_2.csv,1,843,241,1375,539,YoYo Test terminated at 975 (307) and restarted at 1096 (360),D10_RPE_2.csv,7,14.2,1,D10_Audio_2.wav
+D11,Male,23,185,82.5,767,16,59,D11_COSMED_2.csv,1,1053,267,2264,1274,YoYo Test paused at 1361 (440) and resumed at 1371 (449),D11_RPE_2.csv,8,20.1,1,D11_Audio_2.wav
+D13,Female,24,169,78.5,765,21,49,D13_COSMED_2.csv,1,626,228,865,396,,D13_RPE_2.csv,7,13.4,1,D13_Audio_2.wav
+D14,Female,27,160,50,757,31,52,D14_COSMED_2.csv,1,695,180,890,321,,D14_RPE_2.csv,8,13.2,1,D14_Audio_2.wav
+D15,Male,25,170,80,764,18,56,D15_COSMED_2.csv,1,731,184,1023,430,YoYo Test paused at 847 (260) and resumed at 904 (298),D15_RPE_2.csv,6,13.4,1,D15_Audio_2.wav
+D16,Male,20,176,65,757,30,55,D16_COSMED_2.csv,1,715,197,1397,749,,D16_RPE_2.csv,8,16.7,1,D16_Audio_2.wav
+D17,Male,29,170,75,765,20,53,D17_COSMED_2.csv,1,766,249,1027,381,"YoYo Test started on COSMED auto-recalibration, true start time is 776",D17_RPE_2.csv,7,14.1,0,
+D18,Male,24,177,70,765,22,48,D18_COSMED_2.csv,1,934,211,1134,334,,D18_RPE_2.csv,7,13.2,0,
+D20,Male,43,179,71,756,30,56,D20_COSMED_2.csv,1,717,184,1311,654,,D20_RPE_2.csv,7,16.2,1,D20_Audio_2.wav
+D21,Female,40,164,87,757,25,64,D21_COSMED_2.csv,1,705,187,871,318,,D21_RPE_2.csv,7,12.3,0,
+D24,Female,26,174,75,757,28,55,D24_COSMED_2.csv,1,487,159,607,233,,D24_RPE_2.csv,6,12.1,1,D24_Audio_2.wav
