@@ -1,5 +1,5 @@
 This data set was created during a study by the Oxford Natural Interaction Lab (NIL) to investigate the internal and external workloads during a Yo-Yo intermittent recovery test.
-This study was conducted between March and July 2023, under the ethics approval (R70833/RE001) granted by the Medical Sciences Interdivisional Research Ethics Committee of the University of Oxford. 
+This study was conducted in the first half of 2023, under the ethics approval (R70833/RE001) granted by the Medical Sciences Interdivisional Research Ethics Committee of the University of Oxford. 
 25 participants, between age 18-43, were recruited for this study, out of which 21 had agreed to have their data (including indirect identifiers - age, gender, height, and weight) published.
 The participants were self-declared to be healthy and capable of carrying out intense activities stated in the experimental protocol.
 The participants each attended two data capture sessions under the same protocol scheduled on different dates. 
